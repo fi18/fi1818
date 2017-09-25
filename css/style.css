@@ -977,7 +977,7 @@ background: #5b544f;
 	background: -webkit-linear-gradient(top,  #ae5d19 0%,#b53d3d 100%);
 	background: -o-linear-gradient(top,  #ae5d19 0%,#b53d3d 100%);
 	background: -ms-linear-gradient(top,  #ae5d19 0%,#b53d3d 100%);
-	background: linear-gradient(to bottom,  #ae5d19 0%,#b53d3d 100%);
+	background: linear-gradient(to bottom,  #96c100 0%,#275d21 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ae5d19', endColorstr='#b53d3d',GradientType=0 );
 }
 
